@@ -1,4 +1,3 @@
 # Hello-world
 guide descritpion
-Je test le guide de description de GitHub
-On va voir si je comprends et peux utiliser ces modèles!!
+Petit test pour apréhender le Git, j'aimerais réussir à créer un espace dans lequel je viens stocker mon code de façon à pouvoir le retrouver n'importe où que je sois ou même si ma machine venait à rendre l'âme. Et puis dans l'éventualité où l'on change d'emploi, c'est toujours confortable de retrouver un endroit où l'on a conserver des outils de travail...
